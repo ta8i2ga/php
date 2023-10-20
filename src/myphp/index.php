@@ -4,8 +4,6 @@ $nowtime = new DateTime();
 
 ?>
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 
